@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akouniakov&bg_color=212529&text_color=f8f9fa&title_color=18ebff)](https://github.com/Akouniakov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akouniakov&bg_color=212529&text_color=f8f9fa&title_color=18ebffshow_icons=true)](https://github.com/Akouniakov/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akouniakov)](https://github.com/Akouniakov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akouniakov&layout=compact)](https://github.com/Akouniakov/github-readme-stats)
 
 <!--
 **Akouniakov/Akouniakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
