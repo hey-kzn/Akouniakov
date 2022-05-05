@@ -8,6 +8,9 @@
   <img alt="LeetCode" title="LeetCode" height=50 widht=50 src="assets/leetcode.svg"/>
 </a>
 
+<a href="https://www.codingame.com/profile/b1e1c7f5d40dbacc20dee05c0c1fa67d4704893">
+  <img alt="CodingGame" title="CodingGame" height=50 widht=50 src="assets/codinggame.svg"/>
+</a>
 <!--
 **Akouniakov/Akouniakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
