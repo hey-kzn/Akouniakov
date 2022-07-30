@@ -1,4 +1,7 @@
-<h1 align=center> Bonjour vous ! 👋 </h1>
+<h2 align="center">
+  Bonjour vous !
+  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="30"/>
+</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akouniakov&bg_color=0d1117&text_color=f8f9fa&title_color=cfbaf0&show_icons=true&icon_color=cfbaf0&border_color=cfbaf0)](https://github.com/Akouniakov/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akouniakov&layout=compact&bg_color=0d1117&text_color=f8f9fa&title_color=cfbaf0&border_color=cfbaf0)](https://github.com/Akouniakov/github-readme-stats)
